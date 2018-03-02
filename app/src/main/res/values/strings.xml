@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Entre dos numeros</string>
+    <string name="eligeEntreDosNumeros">Elige entre dos números</string>
+    <string name="dameUnNumero">Dame un número</string>
+    <string name="valorMinimo">Valor Mínimo</string>
+    <string name="valorMaximo">Valor Máximo</string>
+    <string name="numeroElegido">El número elegido es: </string>
+    <string name="errorMinimalEqualOrMayorMaximal">El número mínimo es igual o mayor al número máximo</string>
+</resources>
